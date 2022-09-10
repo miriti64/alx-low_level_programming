@@ -1,4 +1,4 @@
-# include <stdio.h>
+#include <stdio.h>
 /**
  * main print the size of datatype
  * Return: (o)
