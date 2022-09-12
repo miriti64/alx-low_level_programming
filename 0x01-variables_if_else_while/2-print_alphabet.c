@@ -1,7 +1,5 @@
 #include <stdio.h>
-
 /**
- 
  * main - Entry point
  * Description: using the main function
  *
